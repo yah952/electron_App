@@ -1,0 +1,26 @@
+{
+  "name": "electron-test-app",
+  "version": "1.0.0",
+  "description": "A test for fun Electron application",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/yah952/electron_App",
+  "keywords": [
+    "Electron",
+    "demo",
+    "NEWS",
+    "newspaper",
+  ],
+  "author": "GitHub",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "^1.6.12"
+  },
+  "dependencies": {
+    "ev-emitter": "^1.1.1",
+    "jquery": "^3.2.1",
+    "selenium-webdriver": "^3.5.0"
+  }
+}
